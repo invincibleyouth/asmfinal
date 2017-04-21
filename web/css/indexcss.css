@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 24, 2017, 9:18:41 AM
+    Author     : Khoa
+*/
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Pacifico|Righteous');
+.first-level{
+    width: 100%;
+    height: auto;
+}
+.logo-menu img{
+    width: 100%;
+    height: 300px;
+}
+.header{
+    width: 100%;
+    height: 200px;
+}
+.bg-header img {
+    width: 100%; 
+    height: 200px; 
+}
+.name-logo{
+    margin-left: 70px;
+    font-family: 'Baloo', cursive;
+    font-weight: bold;
+    font-size: 70px;
+    color: darkorange;
+}
+.name2-logo{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 80px;
+    color: darkslategrey;
+    font-family: 'Abril Fatface', cursive;
+}
+.body a{
+    text-decoration: none;
+}
+.body{
+    width: 100%;
+    height: 1000px;
+}
+.vertical{
+    width: 100%;
+    height: 2px;
+    background-color: red;
+}
+.menu{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 150px;
+    font-size: 30px;
+    color: darkslategrey;
+}
+.menu a{
+    font-family: 'Righteous', cursive;
+    font-weight: bold;
+    color: darkslategrey;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.form-login{
+    margin-top: 10px;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: orange;
+}
